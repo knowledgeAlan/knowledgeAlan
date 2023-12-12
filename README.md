@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zcd-Alan</h1>
-<h3 align="center">I am software developer from China</h3>
+## I'm a Blockchain engineer, a fullstack developer!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
